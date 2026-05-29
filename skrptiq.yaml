@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "3e5bf197-44c4-431f-a7da-c249b332e49d"
+name: "language-polish"
+display_name: "Language Polish"
+description: "Spelling, grammar, punctuation, sentence clarity, and minor wording cleanup"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-language-polish"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
