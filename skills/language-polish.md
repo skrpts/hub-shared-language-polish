@@ -35,7 +35,7 @@ This is a surface-level polish — it does NOT rewrite for tone, restructure arg
 2. **Punctuation** — fixes missing or misplaced commas, full stops, semicolons, and quotation marks
 3. **Sentence clarity** — simplifies unnecessarily complex sentences without changing meaning
 4. **Word choice** — replaces jargon or vague phrasing with clearer alternatives where the meaning is unambiguous
-5. **Consistency** — standardises British/American English spelling within a single document (does not choose which — preserves the document's existing convention)
+5. **Consistency** — standardizes British/American English spelling within a single document (does not choose which — preserves the document's existing convention)
 
 ## What It Does NOT Do
 
